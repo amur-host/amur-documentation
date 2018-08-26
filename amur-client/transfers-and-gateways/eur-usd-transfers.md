@@ -1,7 +1,7 @@
 # **Как ввести или вывести EUR/USD**.
 
-Waves Lite client позволяет хранить и переводить евро и доллары с помощью Waves блокчейна. Данный сервис предоставляется через централизованный Waves сервис.
-Euro/USD переводятся через банковский перевод (SEPA/Wire transfer), затем пользователь получает токен wEURO/wUSD по средствам Waves блокчейна. Токен wEURO/wUSD эквивалентен реальному Euro/USD.
+Амур Lite client позволяет хранить и переводить евро и доллары с помощью Амур блокчейна. Данный сервис предоставляется через централизованный Амур сервис.
+Euro/USD переводятся через банковский перевод (SEPA/Wire transfer), затем пользователь получает токен wEURO/wUSD по средствам Амур блокчейна. Токен wEURO/wUSD эквивалентен реальному Euro/USD.
 
 ## **Как зарегистрироваться в EURO или USD шлюзе**.
 
@@ -9,7 +9,7 @@ Euro/USD переводятся через банковский перевод (
 
 Прежде чем начать процесс верификации, пожалуйста проверьте [список](https://wavesplatform.userecho.com/topics/1304-list-of-accepted-countries-and-documents-for-verification/) поддерживаемых стран и принимаемые виды документов.
 
-Откройте ваше Waves приложение, на главной странице нажмите на кнопку **Получить**. Затем выбирите раздел **Банк** и нажмите на свою персональную ссылку, кнопка **Пройти идентификацию**.
+Откройте ваше Амур приложение, на главной странице нажмите на кнопку **Получить**. Затем выбирите раздел **Банк** и нажмите на свою персональную ссылку, кнопка **Пройти идентификацию**.
 
 ![](/_assets/fiat_transfers_01.png)
 
@@ -44,7 +44,7 @@ Text:
 
 Hello!
 Congratulations!
-You passed KYC&AML checks successfully and are eligible for making transfer to get EUROTOKEN or USDTOKEN at Waves Wallet.
+You passed KYC&AML checks successfully and are eligible for making transfer to get EUROTOKEN or USDTOKEN at Амур Wallet.
 To do so go to your (internet) bank and make a wire transfer from your personal bank account to the following bank accounts.
 For Euro transfers
 Beneficiary Bank: Fio bank
@@ -67,7 +67,7 @@ DETAILS OF PAYMENT: CNM-<your waves="" address="">
 CNM-<your waves="" address="">. If you don't we can't credit your account.
 EXAMPLE:
 Payment details: CNM-3P8QhagL*********************dFH5hm
-2. You must use the same Waves address that you used to make KYC&ALM request. If you make a mistake or put a different Waves address we can't credit your account.
+2. You must use the same Амур address that you used to make KYC&ALM request. If you make a mistake or put a different Амур address we can't credit your account.
 Funds will be credited within 2-5 business days.
 Our KYC&AML compliance department might hold suspicious transactions for longer period as well as request additional documents proving sources of funds.
 --
@@ -82,19 +82,19 @@ Best regards,
 Coinomat Support
 ```
 
-Убедитесь, вы получили электронное письмо от support@coinomat.com а тема - IDnow <ваш Waves адрес>.
+Убедитесь, вы получили электронное письмо от support@coinomat.com а тема - IDnow <ваш Амур адрес>.
 Если все хорошо, вы можете внести депозит, следуя шагам, описанным в полученном электронном письме.
 
 **Примечание**: Вам необходимо совершить хотя бы один ввод средств чтобы получить возможность вывода.
 
 **Важно!**
 
-Вы должны заполнить поле сведений о платеже: **CNM-<Ваш Waves адрес>**. Если вы этого не сделаете, мы не сможем пополнить ваш аккаунт. **ПРИМЕР**: CNM-3P8QhagLR9iPzJW42U8v163JACyKVdFH5hm
-Вы можете использовать только **тот же Waves адрес, который вы использовали для KYC & ALM запросов**. Если вы допустили ошибку или указали другой Waves адрес, мы не сможем пополнить ваш аккаунт. Если все в порядке средства будут доступны в течении 2-5 рабочих дней. Наш KYC & AML отдел может временно заблокировать подозрительные транзакции на более длительный период, а также запрашивать дополнительные документы, подтверждающие происхождение средств.
+Вы должны заполнить поле сведений о платеже: **CNM-<Ваш Амур адрес>**. Если вы этого не сделаете, мы не сможем пополнить ваш аккаунт. **ПРИМЕР**: CNM-3P8QhagLR9iPzJW42U8v163JACyKVdFH5hm
+Вы можете использовать только **тот же Амур адрес, который вы использовали для KYC & ALM запросов**. Если вы допустили ошибку или указали другой Амур адрес, мы не сможем пополнить ваш аккаунт. Если все в порядке средства будут доступны в течении 2-5 рабочих дней. Наш KYC & AML отдел может временно заблокировать подозрительные транзакции на более длительный период, а также запрашивать дополнительные документы, подтверждающие происхождение средств.
 
 ## **Как вывести Euro/USD**.
 
-Чтобы начать процесс вывода средств нажмите на кнопку **Отправить** в EURO или US DOLLAR секциях, в зависимости от того что вы хотите вывести и отправьте необходимую сумму на Waves адрес шлюза - **3P7qtv5Z7AMhwyvf5sM6nLuWWypyjVKb7Us**.
+Чтобы начать процесс вывода средств нажмите на кнопку **Отправить** в EURO или US DOLLAR секциях, в зависимости от того что вы хотите вывести и отправьте необходимую сумму на Амур адрес шлюза - **3P7qtv5Z7AMhwyvf5sM6nLuWWypyjVKb7Us**.
 
 ![](/_assets/fiat_transfers_01.png)
 

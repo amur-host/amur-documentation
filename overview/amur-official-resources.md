@@ -1,4 +1,4 @@
-# Официальные ресурсы Waves
+# Официальные ресурсы Амур
 
 * [**Официальный сайт**](https://wavesplatform.com)
 * [**Новый онлайн клиент \(beta\)**](https://beta.wavesplatform.com)
@@ -10,8 +10,8 @@
 * [**Test Net**](https://testnet.wavesexplorer.com)
 * [**Main Net**](http://wavesexplorer.com)
 * [**Служба поддержки**](https://support.wavesplatform.com/)
-* [**Waves desk**](https://wavesdesk.com)
-* [**WavesGo**](http://wavesgo.com)
+* [**Амур desk**](https://wavesdesk.com)
+* [**АмурGo**](http://wavesgo.com)
 * [**Официальная группа на Facebook**](https://www.facebook.com/wavesplatform)
 * [**Twitter**](https://twitter.com/wavesplatform?lang=en)
 * [**Блог**](https://blog.wavesplatform.com)

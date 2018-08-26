@@ -5,9 +5,9 @@
   * [How To Use This Guide](overview/how-to-use-this-guide.md)
   * [Platform Components](overview/platform-components.md)
   * [Security Notes](overview/security-notes.md)
-  * [Waves Official Resources](overview/waves-official-resources.md)
-  * [Waves Releases](overview/waves-releases.md)
-  * [Waves Tokens](overview/waves-tokens.md)
+  * [Амур Official Resources](overview/waves-official-resources.md)
+  * [Амур Releases](overview/waves-releases.md)
+  * [Амур Tokens](overview/waves-tokens.md)
 
 ## Platform Features
 
@@ -18,19 +18,19 @@
   * [Leased Proof Of Stake Lpos](platform-features/leased-proof-of-stake-lpos.md)
   * [Smart Contracts](platform-features/smart-contracts.md)
 
-## Waves Client
+## Амур Client
 
-  * [Установка Waves приложения](waves-client/install-waves-client.md)
+  * [Установка Амур приложения](waves-client/install-waves-client.md)
   * [Управление аккаунтом](waves-client/account-management.md)
     * [Создание аккаунта](waves-client/account-management/creating-an-account.md)
     * [Восстановление аккаунта](waves-client/account-management/restore-an-account.md)
     * [Перенос аккаунта](waves-client/account-management/account-migration.md)
     * [Вход в аккаунт](waves-client/account-management/signing-in-to-your-account.md)
-    * [Ваш Waves адрес](waves-client/account-management/waves-address.md)
+    * [Ваш Амур адрес](waves-client/account-management/waves-address.md)
     * [Создание персонального алиаса](waves-client/account-management/creating-an-alias.md)
-    * [Лизинг Waves токенов](waves-client/account-management/waves-leasing.md)
+    * [Лизинг Амур токенов](waves-client/account-management/waves-leasing.md)
   * [Переводы и шлюзы](waves-client/wallet-management.md)
-    * [Переводы Waves](waves-client/transfers-and-gateways/waves-transfers.md)
+    * [Переводы Амур](waves-client/transfers-and-gateways/waves-transfers.md)
     * [Переводы Токенов](waves-client/transfers-and-gateways/asset-transfers.md)
     * [Переводы Bitcoin](waves-client/transfers-and-gateways/bitcoin-transfers.md)
     * [Переводы Ethereum](waves-client/transfers-and-gateways/ethereum-transfers.md)
@@ -40,8 +40,8 @@
     * [Переводы Dash](waves-client/transfers-and-gateways/dash-transfers.md)
     * [Переводы Monero](waves-client/transfers-and-gateways/monero-transfers.md)
     * [Перевод EUR и USD](waves-client/transfers-and-gateways/eur-usd-transfers.md)
-    * [Покупка Waves с банковской карты](waves-client/transfers-and-gateways/buying-waves-using-card.md)
-  * [Waves DEX](waves-client/waves-dex.md)
+    * [Покупка Амур с банковской карты](waves-client/transfers-and-gateways/buying-waves-using-card.md)
+  * [Амур DEX](waves-client/waves-dex.md)
     * [Использование биржи DEX](waves-client/waves-dex/start-trading-using-the-waves-dex.md)
   * [Управление ассетами](waves-client/assets-management.md)
     * [Создание токена](waves-client/assets-management/issue-an-asset.md)
@@ -52,11 +52,11 @@
 ## Часто задаваемые вопросы
 
   * [Управление аккаунтом](frequently-asked-questions-faq/account-management-faq.md)
-    * [Один Seed - Один Waves адрес](frequently-asked-questions-faq/account-management/one-seed.md)
+    * [Один Seed - Один Амур адрес](frequently-asked-questions-faq/account-management/one-seed.md)
     * [Ночной режим](frequently-asked-questions-faq/account-management/dark-mode.md)
   * [Переводы и шлюзы](frequently-asked-questions-faq/transfers-and-gateways-faq.md)
     * [Что такое платежный шлюз](frequently-asked-questions-faq/transfers-and-gateways/payment-gateway.md)
     * [Обработка Ethereum платежей и смарт-контракты](frequently-asked-questions-faq/transfers-and-gateways/ethereum-smartcontract-transfers.md)
-  * [Waves DEX](frequently-asked-questions-faq/waves-dex-faq.md)
+  * [Амур DEX](frequently-asked-questions-faq/waves-dex-faq.md)
     * [Время исполнения ордера](frequently-asked-questions-faq/waves-dex/order-time.md)
     * [Поиск токена на бирже DEX используя Asset ID](frequently-asked-questions-faq/waves-dex/asset-id.md)

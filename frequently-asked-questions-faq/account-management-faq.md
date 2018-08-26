@@ -2,5 +2,5 @@
 
 В этом разделе содержатся часто задаваемые вопросы, связанные с работой приложения.
 
-* [Один Seed - Один Waves адрес](account-management/one-seed.md)
-* [Как активировать Ночной режим в кошельке Waves](account-management/dark-mode.md)
+* [Один Seed - Один Амур адрес](account-management/one-seed.md)
+* [Как активировать Ночной режим в кошельке Амур](account-management/dark-mode.md)
