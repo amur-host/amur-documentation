@@ -18,7 +18,7 @@
 
 # 2. Операции над ассетами \(Issue, Reissue and Burn an Asset\) {#Assets(customtokens)-AssetsOperations(Issue,ReissueandBurnanAsset)}
 
-Более подробную информацию об ассет-транзакциях можно найти [здесь](/development-and-api/waves-node-rest-api/asset-transactions.md).
+Более подробную информацию об ассет-транзакциях можно найти [здесь](/development-and-api/amur-node-rest-api/asset-transactions.md).
 
 ## 2.1 Выпуск ассет-транзакции {#Assets(customtokens)-IssueAssetTransaction}
 
@@ -59,18 +59,18 @@
 
 # 3. Примеры проверенных на данный момент ассетов {#Assets(customtokens)-HowtoIssueCustomizedTokenontheАмурPlatform}
 
-* [Амур Community Token \(WCT\)](http://www.waveswiki.org/index.php?title=Амур_Community_Token_%28WCT%29)
-* [Miner Reward Token \(MRT\)](http://www.waveswiki.org/index.php?title=Miner_Reward_Token_%28MRT%29)
-* [Incent](http://www.waveswiki.org/index.php?title=Incent)
-* [EncryptoTel \(ETT\)](http://www.waveswiki.org/index.php?title=EncryptoTel)
-* [MobileGo Token \(Mgo\)](http://www.waveswiki.org/index.php?title=MobileGo_Token)
-* [Амурgo Token \(WGO\)](http://www.waveswiki.org/index.php?title=Амурgo_Token)
-* [Starrie \($STAR\)](http://www.waveswiki.org/index.php?title=Starrie)
-* [Mercury \(MER\)](http://www.waveswiki.org/index.php?title=Mercury)
-* [Riptobux \(RBX\)](http://www.waveswiki.org/index.php?title=Riptobux)
-* [Амурnode.NET \(WNET\)](http://www.waveswiki.org/index.php?title=Амурnode.NET)
+* [Амур Community Token \(WCT\)](http://www.amurwiki.org/index.php?title=Амур_Community_Token_%28WCT%29)
+* [Miner Reward Token \(MRT\)](http://www.amurwiki.org/index.php?title=Miner_Reward_Token_%28MRT%29)
+* [Incent](http://www.amurwiki.org/index.php?title=Incent)
+* [EncryptoTel \(ETT\)](http://www.amurwiki.org/index.php?title=EncryptoTel)
+* [MobileGo Token \(Mgo\)](http://www.amurwiki.org/index.php?title=MobileGo_Token)
+* [Амурgo Token \(WGO\)](http://www.amurwiki.org/index.php?title=Амурgo_Token)
+* [Starrie \($STAR\)](http://www.amurwiki.org/index.php?title=Starrie)
+* [Mercury \(MER\)](http://www.amurwiki.org/index.php?title=Mercury)
+* [Riptobux \(RBX\)](http://www.amurwiki.org/index.php?title=Riptobux)
+* [Амурnode.NET \(WNET\)](http://www.amurwiki.org/index.php?title=Амурnode.NET)
 
-[Здесь](http://support.wavesplatform.com/forums/2-knowledge-base/topics/8141-list-of-verified-assets/) можно найти более полный, 
+[Здесь](http://support.amurplatform.com/forums/2-knowledge-base/topics/8141-list-of-verified-assets/) можно найти более полный, 
 но не исчерпывающий список подтвержденных ассетов \(список постоянно обновляется\).
 
 # 4. Пре-ICO продажа токенов на Амур DEX {#Assets(customtokens)-Pre-ICOTokenSaleonАмурDEX}

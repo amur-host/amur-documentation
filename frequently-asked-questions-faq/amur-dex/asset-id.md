@@ -4,7 +4,7 @@
 
 Поэтому удобнее всего искать нужный вам ассет по его идентификатору (Asset Id).
 
-Поиск по короткому имени, тикеру доступен только для ассетов из этого списка - [The list of all assets having ticker symbol](https://support.wavesplatform.com/en/knowledge-bases/2/articles/8141-the-list-of-all-assets-having-ticker-symbol)
+Поиск по короткому имени, тикеру доступен только для ассетов из этого списка - [The list of all assets having ticker symbol](https://support.amurplatform.com/en/knowledge-bases/2/articles/8141-the-list-of-all-assets-having-ticker-symbol)
 
 Более подробнее о том как использовать Asset ID:
 

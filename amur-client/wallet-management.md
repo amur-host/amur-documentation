@@ -2,7 +2,7 @@
 
 В главе "Переводы и шлюзы содержатся все необходимые сведения о транзакциях ввода и вывода криптовалют, которые поддерживает платформа Амур. Все транзакции с внешними криптовалютами обрабатываются [платежными шлюзами](/frequently-asked-questions-faq/transfers-and-gateways/payment-gateway.md).
 
-* [Переводы Амур](transfers-and-gateways/waves-transfers.md)
+* [Переводы Амур](transfers-and-gateways/amur-transfers.md)
 * [Переводы Токенов](transfers-and-gateways/asset-transfers.md)
 * [Переводы Bitcoin](transfers-and-gateways/bitcoin-transfers.md)
 * [Переводы Ethereum](transfers-and-gateways/ethereum-transfers.md)
@@ -15,7 +15,7 @@
 
 The Амур wallet also supports small purchases of Амур in Euro and US Dollar (minimum 30 EUR/USD, maximum 200 EUR/USD) using plastic card.
 
-* [Покупка Амур с банковской карты](transfers-and-gateways/buying-waves-using-card.md)
+* [Покупка Амур с банковской карты](transfers-and-gateways/buying-amur-using-card.md)
 
 Кошелек Амур также поддерживает покупку Амур за Евро и Доллары США (минимум 30 EUR / USD, максимум 200 EUR / USD) с использованием пластиковой банковской карты.
 

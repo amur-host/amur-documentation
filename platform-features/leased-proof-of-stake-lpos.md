@@ -120,8 +120,8 @@ LPoS (дословно -  арендованное доказательство 
 
 # 3.2.3 Полезные ссылки для лизинга {#LeasedProofofStake(LPOS)-Usefullinksforleasing}
 
-Пошаговое руководство по сдаче средств в лизинг [здесь](/waves-client/account-management/waves-leasing.md).
+Пошаговое руководство по сдаче средств в лизинг [здесь](/amur-client/account-management/amur-leasing.md).
 
-Список нод генераторов [здесь](http://dev.pywaves.org/generators/).
+Список нод генераторов [здесь](http://dev.pyamur.org/generators/).
 
-Амур-ноды [здесь](https://wavesplatform.com/leasing#nodes).
+Амур-ноды [здесь](https://amurplatform.com/leasing#nodes).

@@ -6,6 +6,6 @@
 * [Восстановление аккаунта](account-management/restore-an-account.md)
 * [Перенос аккаунта](account-management/account-migration.md)
 * [Вход в аккаунт](account-management/signing-in-to-your-account.md)
-* [Ваш Амур адрес](account-management/waves-address.md)
+* [Ваш Амур адрес](account-management/amur-address.md)
 * [Создание персонального алиаса](account-management/creating-an-alias.md)
-* [Лизинг Амур токенов](account-management/waves-leasing.md)
+* [Лизинг Амур токенов](account-management/amur-leasing.md)

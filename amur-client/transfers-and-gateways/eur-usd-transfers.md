@@ -7,7 +7,7 @@ Euro/USD переводятся через банковский перевод (
 
 Процесс верификации выполняется на стороне [IDnow](https://www.idnow.eu/) верификатора.
 
-Прежде чем начать процесс верификации, пожалуйста проверьте [список](https://wavesplatform.userecho.com/topics/1304-list-of-accepted-countries-and-documents-for-verification/) поддерживаемых стран и принимаемые виды документов.
+Прежде чем начать процесс верификации, пожалуйста проверьте [список](https://amurplatform.userecho.com/topics/1304-list-of-accepted-countries-and-documents-for-verification/) поддерживаемых стран и принимаемые виды документов.
 
 Откройте ваше Амур приложение, на главной странице нажмите на кнопку **Получить**. Затем выбирите раздел **Банк** и нажмите на свою персональную ссылку, кнопка **Пройти идентификацию**.
 
@@ -53,7 +53,7 @@ Beneficiary bank address: Fio banka, a.s., V Celnici 1028/10, 117 21 Praha 1
 Beneficiary account No.: 23**********80
 IBAN: CZ94****************1191380
 BIC/SWIFT: FIOBCZPPXXX
-DETAILS OF PAYMENT: CNM-<your waves="" address="">
+DETAILS OF PAYMENT: CNM-<your amur="" address="">
 For USD transfers
 Beneficiary Bank: Fio bank
 Beneficiary: CashTan Financial Services s.r.o.
@@ -61,10 +61,10 @@ Beneficiary bank address: Fio banka, a.s., V Celnici 1028/10, 117 21 Praha 1
 Account No.: 26*********82
 IBAN: CZ7********************1382
 BIC/SWIFT: FIO*******XXX
-DETAILS OF PAYMENT: CNM-<your waves="" address="">
+DETAILS OF PAYMENT: CNM-<your amur="" address="">
 <pre>IMPORTANT!
 1. You MUST fill in the payment details field with the following information:
-CNM-<your waves="" address="">. If you don't we can't credit your account.
+CNM-<your amur="" address="">. If you don't we can't credit your account.
 EXAMPLE:
 Payment details: CNM-3P8QhagL*********************dFH5hm
 2. You must use the same Амур address that you used to make KYC&ALM request. If you make a mistake or put a different Амур address we can't credit your account.
